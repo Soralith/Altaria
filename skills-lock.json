@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "almap": {
+      "source": "Soralith/Altaria",
+      "sourceType": "github",
+      "skillPath": "skills/almap/SKILL.md",
+      "computedHash": "931755918fd9dea252c8a5d1048c2dbfd8984bc8332a62d5ebbbd4a87d693319"
+    },
+    "alscan": {
+      "source": "Soralith/Altaria",
+      "sourceType": "github",
+      "skillPath": "skills/alscan/SKILL.md",
+      "computedHash": "d0d1143fabb9f1959c69c0881acbb261d22e40d8bc6fd4de2930c782cc39616e"
+    },
+    "alscout": {
+      "source": "Soralith/Altaria",
+      "sourceType": "github",
+      "skillPath": "skills/alscout/SKILL.md",
+      "computedHash": "671310054a1d4576ae97bcba55de37223e3e39bd7258dd02aeade142012710eb"
+    },
+    "alswoop": {
+      "source": "Soralith/Altaria",
+      "sourceType": "github",
+      "skillPath": "skills/alswoop/SKILL.md",
+      "computedHash": "69149d5ef4a9cefa35b4e37ee49c802996691b1f78616b8c702dd497e6898ea1"
+    }
+  }
+}

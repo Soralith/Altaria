@@ -1,0 +1,36 @@
+{
+  "name": "@altaria/plugin",
+  "version": "0.1.8",
+  "description": "Altaria — project analysis suite for OpenCode: alscout (full analysis), alswoop (file deep-dive), almap (directory tree), alscan (security audit)",
+  "type": "module",
+  "main": "plugin/altaria.js",
+  "exports": {
+    ".": "./plugin/altaria.js"
+  },
+  "files": [
+    "plugin/",
+    "skills/",
+    "commands/",
+    "README.md"
+  ],
+  "keywords": [
+    "opencode",
+    "plugin",
+    "altaria",
+    "analysis",
+    "security",
+    "scan"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Soralith/Altaria",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soralith/Altaria.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Soralith/Altaria/issues"
+  },
+  "dependencies": {
+    "@opencode-ai/plugin": "^1.15.7"
+  }
+}
