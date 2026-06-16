@@ -21,7 +21,7 @@
 
 Inspired by the sharp vision and message-carrying nature of the eagle (**Altair**), **Altaria** is an extension built to eliminate cognitive friction when diving into unfamiliar or massive codebases. It provides a bird's-eye view of your project's architecture, performs high-precision micro-analysis on targeted files, and audits your workspace for anomalies—all directly inside the OpenCode terminal interface.
 
-## 🛠️ Slash Commands
+## Slash Commands
 
 Altaria registers 4 core commands into your OpenCode environment:
 
@@ -32,7 +32,7 @@ Altaria registers 4 core commands into your OpenCode environment:
 | **`/almap`** | Architecture Map | Generates a clean hierarchical directory tree and dependency flow |
 | **`/alscan`** | Security Audit | Scans for exposed secrets, .env leaks, package vulnerabilities, and misconfigurations |
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/Soralith/Altaria.git /tmp/altaria
@@ -41,10 +41,6 @@ cp /tmp/altaria/commands/*.md ~/.config/opencode/commands/
 cp /tmp/altaria/plugin/altaria.js ~/.config/opencode/plugins/
 rm -rf /tmp/altaria
 ```
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
